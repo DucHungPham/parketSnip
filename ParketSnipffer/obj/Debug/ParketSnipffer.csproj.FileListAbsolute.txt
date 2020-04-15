@@ -1,0 +1,38 @@
+E:\PROJECT\parket snipffer\ParketSnipffer\ParketSnipffer\bin\Debug\ParketSnipffer.exe
+E:\PROJECT\parket snipffer\ParketSnipffer\ParketSnipffer\bin\Debug\ParketSnipffer.pdb
+E:\PROJECT\parket snipffer\ParketSnipffer\ParketSnipffer\obj\Debug\ParketSnipffer.csprojResolveAssemblyReference.cache
+E:\PROJECT\parket snipffer\ParketSnipffer\ParketSnipffer\obj\Debug\ParketSnipffer.frmMain.resources
+E:\PROJECT\parket snipffer\ParketSnipffer\ParketSnipffer\obj\Debug\ParketSnipffer.Properties.Resources.resources
+E:\PROJECT\parket snipffer\ParketSnipffer\ParketSnipffer\obj\Debug\ParketSnipffer.csproj.GenerateResource.Cache
+E:\PROJECT\parket snipffer\ParketSnipffer\ParketSnipffer\obj\Debug\ParketSnipffer.exe
+E:\PROJECT\parket snipffer\ParketSnipffer\ParketSnipffer\obj\Debug\ParketSnipffer.pdb
+D:\OneDrive\Desktop\parket snipffer_cSharp\ParketSnipffer\ParketSnipffer\obj\Debug\ParketSnipffer.exe
+D:\OneDrive\Desktop\parket snipffer_cSharp\ParketSnipffer\ParketSnipffer\obj\Debug\ParketSnipffer.pdb
+D:\OneDrive\Desktop\parket snipffer_cSharp\ParketSnipffer\ParketSnipffer\bin\Debug\ParketSnipffer.exe
+D:\OneDrive\Desktop\parket snipffer_cSharp\ParketSnipffer\ParketSnipffer\bin\Debug\ParketSnipffer.pdb
+D:\OneDrive\Desktop\parket snipffer_cSharp\ParketSnipffer\ParketSnipffer\obj\Debug\ParketSnipffer.csprojResolveAssemblyReference.cache
+D:\OneDrive\Desktop\parket snipffer_cSharp\ParketSnipffer\ParketSnipffer\obj\Debug\ParketSnipffer.frmMain.resources
+D:\OneDrive\Desktop\parket snipffer_cSharp\ParketSnipffer\ParketSnipffer\obj\Debug\ParketSnipffer.Properties.Resources.resources
+D:\OneDrive\Desktop\parket snipffer_cSharp\ParketSnipffer\ParketSnipffer\obj\Debug\ParketSnipffer.csproj.GenerateResource.Cache
+E:\CTY\OneDrive\Desktop\parket snipffer_cSharp\ParketSnipffer\ParketSnipffer\obj\Debug\ParketSnipffer.exe
+E:\CTY\OneDrive\Desktop\parket snipffer_cSharp\ParketSnipffer\ParketSnipffer\obj\Debug\ParketSnipffer.pdb
+E:\CTY\OneDrive\Desktop\parket snipffer_cSharp\ParketSnipffer\ParketSnipffer\bin\Debug\ParketSnipffer.exe
+E:\CTY\OneDrive\Desktop\parket snipffer_cSharp\ParketSnipffer\ParketSnipffer\bin\Debug\ParketSnipffer.pdb
+E:\CTY\OneDrive\Desktop\parket snipffer_cSharp\ParketSnipffer\ParketSnipffer\obj\Debug\ParketSnipffer.csprojResolveAssemblyReference.cache
+E:\CTY\OneDrive\Desktop\parket snipffer_cSharp\ParketSnipffer\ParketSnipffer\obj\Debug\ParketSnipffer.frmMain.resources
+E:\CTY\OneDrive\Desktop\parket snipffer_cSharp\ParketSnipffer\ParketSnipffer\obj\Debug\ParketSnipffer.Properties.Resources.resources
+E:\CTY\OneDrive\Desktop\parket snipffer_cSharp\ParketSnipffer\ParketSnipffer\obj\Debug\ParketSnipffer.csproj.GenerateResource.Cache
+E:\CTY\OneDrive\Desktop\parket snipffer_cSharp\ParketSnipffer\ParketSnipffer\obj\Debug\ParketSnipffer.frmSetting.resources
+D:\OneDrive\Desktop\parket snipffer_cSharp\ParketSnipffer\ParketSnipffer\obj\Debug\ParketSnipffer.frmSetting.resources
+D:\OneDrive\Desktop\parket snipffer_cSharp\ParketSnipffer\ParketSnipffer\bin\Debug\ParketSnipffer.exe.config
+E:\CTY\OneDrive\Desktop\parket snipffer_cSharp\ParketSnipffer\ParketSnipffer\bin\Debug\ParketSnipffer.exe.config
+E:\CTY\OneDrive\Desktop\MiniTool\ParketSnipffer\ParketSnipffer\bin\Debug\ParketSnipffer.exe.config
+E:\CTY\OneDrive\Desktop\MiniTool\ParketSnipffer\ParketSnipffer\obj\Debug\ParketSnipffer.exe
+E:\CTY\OneDrive\Desktop\MiniTool\ParketSnipffer\ParketSnipffer\obj\Debug\ParketSnipffer.pdb
+E:\CTY\OneDrive\Desktop\MiniTool\ParketSnipffer\ParketSnipffer\bin\Debug\ParketSnipffer.exe
+E:\CTY\OneDrive\Desktop\MiniTool\ParketSnipffer\ParketSnipffer\bin\Debug\ParketSnipffer.pdb
+E:\CTY\OneDrive\Desktop\MiniTool\ParketSnipffer\ParketSnipffer\obj\Debug\ParketSnipffer.csprojResolveAssemblyReference.cache
+E:\CTY\OneDrive\Desktop\MiniTool\ParketSnipffer\ParketSnipffer\obj\Debug\ParketSnipffer.frmMain.resources
+E:\CTY\OneDrive\Desktop\MiniTool\ParketSnipffer\ParketSnipffer\obj\Debug\ParketSnipffer.frmSetting.resources
+E:\CTY\OneDrive\Desktop\MiniTool\ParketSnipffer\ParketSnipffer\obj\Debug\ParketSnipffer.Properties.Resources.resources
+E:\CTY\OneDrive\Desktop\MiniTool\ParketSnipffer\ParketSnipffer\obj\Debug\ParketSnipffer.csproj.GenerateResource.Cache
